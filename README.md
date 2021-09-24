@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=Junstone1995's%20GitHub&fontSize=75)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Junstone1995's%20GitHub&fontSize=75)
 
 안녕하세요 
 
