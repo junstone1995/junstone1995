@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&color=gradient&height=300&section=header&text=JunSeok's%20GitHub&fontSize=75&fontColor=000000)
 
-Hi there 👋
-I'm studying IOS
+<h3>Hi there 👋</h3>
+<h3>I'm studying IOS</h3>
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
